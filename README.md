@@ -22,7 +22,8 @@
 
 --- Fishing configurado:
 
-![Fishing pronto para coleta ](https://github.com/user-attachments/assets/7ed98ac0-b1b4-431d-8a2d-0050604f92e8)
+![Fishing pronto para coleta ](https://github.com/user-attachments/assets/6b6c611f-59f2-41d1-9557-77c4408ea90b)
+
 
 --- Resutados
 
