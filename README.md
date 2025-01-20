@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do GitHub
 (Obs, Não foi possivel fazer o siter cloner no facebook pois ele possui um sistema contra clonagem de site,O portifolio foi reproduzido no site do github)
 
 --- Sistema Operacional: 
